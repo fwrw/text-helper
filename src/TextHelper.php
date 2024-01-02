@@ -93,7 +93,4 @@ class TextHelper {
     }
 }
 
-echo PHP_VERSION;
-
-echo TextHelper::clear("Bom dia, você está linda hoje!!1", true, true);
 ?>
