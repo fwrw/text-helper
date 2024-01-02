@@ -1,0 +1,15 @@
+{
+    "name": "fwrw/text-helper",
+    "description": "library for text manipulation, including removing duplicate whitespaces and some commom string operations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Paulo",
+            "email": "heretostayost@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
